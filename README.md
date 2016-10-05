@@ -1,2 +1,2 @@
 # Projects
-Past projects from second year
+Past projects from first & second year
